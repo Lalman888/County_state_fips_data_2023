@@ -1,6 +1,4 @@
-Here’s a sample README for your project **County_state_fips_data_2023**:
 
----
 
 # County_state_fips_data_2023
 
